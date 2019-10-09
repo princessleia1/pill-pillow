@@ -5,8 +5,9 @@
 **TODO-Face** is built for Fitbit Devices: Ionic (348x250) and Versa (300x300).
 
 <p align="left">
-  <img width="175" height="175" src=./screenshots/TODO-Face-versa-1.png>
-  <img width="175" height="175" src=./screenshots/TODO-Face-versa-2.png>
+  <img width="200" height="200" src=./screenshots/TODO-Face-versa-1.png>
+  <img width="200" height="200" src=./screenshots/TODO-Face-versa-2.png>
+  <img width="200" height="200" src=./screenshots/TODO-Face-versa-3.png>
 </p>
 
 ## License

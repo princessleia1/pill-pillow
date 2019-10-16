@@ -1,5 +1,5 @@
 # TODO-Face
-**TODO-Face** is an app for Fitbit OS to Add To Do Items in a List Format. This app uses [Fitbit SDK V3.1.0](https://github.com/Fitbit).
+**TODO-Face** is an app for Fitbit OS to Add To Do Items in a List Format. This app uses [Fitbit SDK V3.1.0](https://github.com/Fitbit). Work In Progress.
 
 ## Devices
 **TODO-Face** is built for Fitbit Devices: Ionic (348x250) and Versa (300x300).

@@ -1,5 +1,5 @@
 # Pill-Pillow
-**Pill-Pillow** is an app or Fitbit OS for displaying Medications in a List Format. This app uses [Fitbit SDK V3.1.0](https://github.com/Fitbit). Work In Progress.
+**Pill-Pillow** is an app for Fitbit OS for displaying Medications in a List Format. This app uses [Fitbit SDK V3.1.0](https://github.com/Fitbit).
 
 ## Devices
 **Pill-Pillow** is built for Fitbit Devices: Ionic (348x250) and Versa (300x300).

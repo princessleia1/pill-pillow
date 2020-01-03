@@ -1,10 +1,6 @@
 # Pill-Pillow
 **Pill-Pillow** is an accessible Fitbit OS App for displaying your Medications and Dosage Information in a simple List Format allowing vertical scrolling for further tiles. This app uses [Fitbit OS SDK V4.1 - Firmware Release 70.7.14](https://github.com/Fitbit).
 
-<p align="center">
-  <img width="80" height="80" src =./resources/icon2.png>
-</p>
-
 ## Devices
 **Pill-Pillow** is built for Fitbit Devices: Ionic (348x250), Versa (300x300), Versa Lite (300x300), and Versa 2 (300x300).
 
@@ -30,6 +26,10 @@
 
 ## License
 **Pill-Pillow** App is licensed under the terms of the [GPL-3.0 License](/LICENSE). 
+
+<p align="center">
+  <img width="80" height="80" src =./resources/icon2.png>
+</p>
 
 <p align="middle">
 <img width="80" height="80" src=./resources/icon.png>

@@ -4,7 +4,7 @@ function mySettings(props) {
       <Section
         title={
           <Text bold align="center">
-            PILL-POPPER SETTINGS
+            PILL-PILLOW SETTINGS
           </Text>
         }
       >

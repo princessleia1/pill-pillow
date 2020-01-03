@@ -2,7 +2,7 @@
   "fitbit": {
     "appUUID": "24f011ff-453a-4e6d-875a-62a9a2e84cc4",
     "appType": "app",
-    "appDisplayName": "Pill-Popper",
+    "appDisplayName": "Pill-Pillow",
     "iconFile": "resources/icon.png",
     "wipeColor": "#e91e63",
     "requestedPermissions": [
@@ -19,7 +19,7 @@
     ],
     "i18n": {
       "en": {
-        "name": "Pill-Popper"
+        "name": "Pill-Pillow"
       }
     },
     "defaultLanguage": "en-US"

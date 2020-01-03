@@ -9,7 +9,7 @@
 **Pill-Pillow** is built for Fitbit Devices: Ionic (348x250), Versa (300x300), Versa Lite (300x300), and Versa 2 (300x300).
 
 <p align="left">
-  <img width="200" height="200" src=./screenshots/pill-pillow-versa-1.png>
+  <img width="393" height="394" src=./screenshots/pill-pillow-versa-1.png>
 </p>
 
 ## Companion Settings

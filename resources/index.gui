@@ -1,8 +1,8 @@
 <!-- Versa 300x300 | Ionic 348x250 -->
 <svg>
     <use id="emptyListHelp" href="#mixed-text-center-mid" height="100%" fill="fb-yellow" class="emptyList">
-        <set href="#header/text" attributeName="text-buffer" to="Create List" />
-        <set href="#copy/text" attributeName="text-buffer" to="Add Items to the TODO-Face List in Companion Settings." />
+        <set href="#header/text" attributeName="text-buffer" to="Medication List" />
+        <set href="#copy/text" attributeName="text-buffer" to="Add Medications in Companion Settings." />
     </use>
     <symbol id="colour-item" href="#tile-list-item" class="tile-item" height="50" display="none" focusable="false" pointer-events="visible" system-events="all">
         <g id="transform">
@@ -43,5 +43,5 @@
     <rect id="batteryIconOverlay" />
     <rect id="batteryRedLine" />
     <text id="battery">X%</text>
-    <text id="appTitle">TODO-Face</text>
+  <text id="appTitle">PILL-POPPER</text>
 </svg>

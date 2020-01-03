@@ -4,7 +4,7 @@ function mySettings(props) {
       <Section
         title={
           <Text bold align="center">
-            TODO-Face Settings
+            PILL-POPPER SETTINGS
           </Text>
         }
       >
@@ -22,25 +22,25 @@ function mySettings(props) {
             { color: "purple" },
             { color: "deepskyblue" },
             { color: "dodgerblue" },
+            { color: "magenta" },
             { color: "midnightblue" }
           ]}
         />
       </Section>
       <Section
-        description={<Text>Maximum 50 TODO Entries.</Text>}
         title={
           <Text align="center" bold>
-            TODO-FACE
+            ADD MEDICATIONS
           </Text>
         }
       >
         <AdditiveList
-          settingsKey="todo_items"
+          settingsKey="med_items"
           maxItems="50"
           addAction={
             <TextInput
-              label="Add To Do Item Entry"
-              placeholder="Add To Do Item"
+              label="Add Medication Name and Dosage"
+              placeholder="Add Item"
               action="Add"
             />
           }

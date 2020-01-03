@@ -254,7 +254,7 @@ let lastProcessedSettingTime = 0;
 
 function loadSettings() {
   try {
-    let settings = fs.readFileSync("todoItems.cbor", "cbor");
+    let settings = fs.readFileSync("meditems.cbor", "cbor");
     if (lastProcessedSettingTime < settings.timestamp) {
       lastProcessedSettingTime = settings.timestamp;
 
@@ -271,7 +271,7 @@ function loadSettings() {
 function processInbox() {
   let fileName;
   while ((fileName = inbox.nextFile())) {
-    if (fileName === "todoItems.cbor") {
+    if (fileName === "meditems.cbor") {
       loadSettings();
     }
   }

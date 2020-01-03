@@ -2,24 +2,30 @@
   "fitbit": {
     "appUUID": "24f011ff-453a-4e6d-875a-62a9a2e84cc4",
     "appType": "app",
-    "appDisplayName": "TODO-Face",
+    "appDisplayName": "Pill-Popper",
     "iconFile": "resources/icon.png",
-    "wipeColor": "#ffeb3b",
-    "requestedPermissions": [],
+    "wipeColor": "#e91e63",
+    "requestedPermissions": [
+      "access_activity",
+      "access_user_profile",
+      "run_background",
+      "access_location"
+    ],
     "buildTargets": [
       "meson",
       "higgs",
-      "gemini"
+      "gemini",
+      "mira"
     ],
     "i18n": {
       "en": {
-        "name": "TODO-Face"
+        "name": "Pill-Popper"
       }
     },
     "defaultLanguage": "en-US"
   },
   "devDependencies": {
-    "@fitbit/sdk": "^3.1.2",
+    "@fitbit/sdk": "~4.1.0",
     "@fitbit/sdk-cli": "^1.7.0"
   }
 }

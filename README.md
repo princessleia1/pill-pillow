@@ -1,5 +1,5 @@
 # Pill-Pillow
-**Pill-Pillow** is an app for Fitbit OS for displaying Medications in a List Format allowing vertical scrolling for further tiles. This app uses [Fitbit OS SDK V4.1 Firmware Release 70.7.14](https://github.com/Fitbit).
+**Pill-Pillow** is a Fitbit OS App for displaying your Medications in a simple List Format allowing vertical scrolling for further tiles. This app uses [Fitbit OS SDK V4.1 Firmware Release 70.7.14](https://github.com/Fitbit).
 
 <p align="center">
   <img width="80" height="80" src =./resources/icon2.png>

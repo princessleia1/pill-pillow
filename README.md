@@ -2,7 +2,7 @@
 **Pill-Popper** is an app for Fitbit OS for displaying Medications in a List Format allowing vertical scrolling for further tiles. This app uses [Fitbit OS SDK V4.1 Firmware Release 70.7.14](https://github.com/Fitbit).
 
 ## Devices
-**Pill-Popper** is built for Fitbit Devices: Ionic (348x250), Versa (300x300), Versa Lite, and Versa 2 (300x300).
+**Pill-Popper** is built for Fitbit Devices: Ionic (348x250), Versa (300x300), Versa Lite (300x300), and Versa 2 (300x300).
 
 <p align="left">
   <img width="200" height="200" src=./screenshots/pill-popper-versa-1.png>

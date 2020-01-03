@@ -1,5 +1,5 @@
 # Pill-Pillow
-**Pill-Pillow** is an app for Fitbit OS for displaying Medications in a List Format allowing vertical scrolling for further tiles. This app uses [Fitbit OS SDK V4.1 Firmware Release 70.7.14](https://github.com/Fitbit).
+**Pill-Pillow** is an accessible Fitbit OS App for displaying your Medications and Dosage Information in a simple List Format allowing vertical scrolling for further tiles. This app uses [Fitbit OS SDK V4.1 - Firmware Release 70.7.14](https://github.com/Fitbit).
 
 <p align="center">
   <img width="80" height="80" src =./resources/icon2.png>
@@ -9,10 +9,17 @@
 **Pill-Pillow** is built for Fitbit Devices: Ionic (348x250), Versa (300x300), Versa Lite (300x300), and Versa 2 (300x300).
 
 <p align="left">
-  <img width="200" height="200" src=./screenshots/pill-pillow-versa-1.png>
+  <img width="300" height="259" src=./screenshots/pill-pillow-versa-1.png>
 </p>
 
 ## Companion Settings
+* Medications and Dosage information is input via the **Companion Settings** side app that is loaded via the Fitbit Mobile Application.
+* To add Medication Name and Dosage: Click **Add Medication and Dosage** text and input the Medication Name and Dosage (or any other important information). 
+* To Save Items: Click **Save** button to add the tile to the Pill-Pillow Fitbit App on your device.
+* Move Items: Click **Edit** to modify an Item Entry or to move an item to the list top or list bottom.
+* Delete an Item: Click **Edit** button and select the X beside the item for removal.
+* To Delete All: Click **Clear Settings Storage** to remove all Items in Companion Settings.
+
 <p align="left">
    <img width="399" height="355" src=./screenshots/pill-pillow-companion-1.png>
 </p>

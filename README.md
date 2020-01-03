@@ -12,7 +12,7 @@
 <p align="left">
    <img width="399" height="355" src=./screenshots/pill-popper-companion-1.png>
 </p>
-<p align="left>
+<p align="left">
    <img width="392" height="518" src=./screenshots/pill-popper-companion-2.png>
 </p>
 

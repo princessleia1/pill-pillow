@@ -14,9 +14,8 @@
 ## Companion Settings
 
 **Medications and Dosage Information** is input via the **Companion Settings** side app that is loaded via the Fitbit Mobile Application:
-- **Add Item** Click **Add Medication and Dosage** and input Medication Name and Dosage.
+- **Add Item:** Click **Add Medication and Dosage** and input Medication Name and Dosage.
 - **Save Item:** Click **Save** button to add the tile to the Pill-Pillow Fitbit App on your device.
-- **Move Item:** Click **Edit** button to modify Item Entry or to move Item to the list top or list bottom.
 - **Delete Item:** Click **Edit** button and select the **X** beside Item for removal. Click **Done** to remove it from device.
 - **Delete All:** Click **Clear Settings Storage** to remove all Items in Companion Settings.
 

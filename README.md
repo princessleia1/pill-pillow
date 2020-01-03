@@ -1,5 +1,5 @@
 # Pill-Pillow
-**Pill-Pillow** is a Fitbit OS App for displaying your Medications in a simple List Format allowing vertical scrolling for further tiles. This app uses [Fitbit OS SDK V4.1 Firmware Release 70.7.14](https://github.com/Fitbit).
+**Pill-Pillow** is an accessible Fitbit OS App for displaying your Medications and Dosage Information in a simple List Format allowing vertical scrolling for further tiles. This app uses [Fitbit OS SDK V4.1 - Firmware Release 70.7.14](https://github.com/Fitbit).
 
 <p align="center">
   <img width="80" height="80" src =./resources/icon2.png>
@@ -13,8 +13,9 @@
 </p>
 
 ## Companion Settings
-Medications and Dosage information is input via the Companion Settings side app that is loaded via the Fitbit Mobile Application.
-By selecting **Add Medication and Dosage** text, you can input the Medication Name, and Dosage (or any other important information). Click **Save** button to add the tile to the Pill-Pillow Fitbit App on your device.
+1. Medications and Dosage information is input via the Companion Settings side app that is loaded via the Fitbit Mobile Application.
+2. By selecting **Add Medication and Dosage** text, you can input the Medication Name, and Dosage (or any other important information). 
+4. Click **Save** button to add the tile to the Pill-Pillow Fitbit App on your device.
 
 <p align="left">
    <img width="399" height="355" src=./screenshots/pill-pillow-companion-1.png>

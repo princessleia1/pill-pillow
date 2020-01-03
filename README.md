@@ -13,6 +13,9 @@
 </p>
 
 ## Companion Settings
+Medications and Dosage information is input via the Companion Settings side app that is loaded via the Fitbit Mobile Application.
+By selecting **Add Medication and Dosage** text, you can input the Medication Name, and Dosage (or any other important information). Click **Save** button to add the tile to the Pill-Pillow Fitbit App on your device.
+
 <p align="left">
    <img width="399" height="355" src=./screenshots/pill-pillow-companion-1.png>
 </p>

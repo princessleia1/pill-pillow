@@ -19,15 +19,6 @@
 - **Delete Item:** Click **Edit** button and select the **X** beside Item for removal. Click **Done** to remove it from device.
 - **Delete All:** Click **Clear Settings Storage** to remove all Items in Companion Settings.
 
-## Screenshots
-
-<p align="left">
-   <img width="399" height="355" src=./screenshots/pill-pillow-companion-1.png>
-</p>
-<p align="left">
-   <img width="392" height="518" src=./screenshots/pill-pillow-companion-2.png>
-</p>
-
 ## License
 **Pill-Pillow** App is licensed under the terms of the [GPL-3.0 License](/LICENSE). 
 

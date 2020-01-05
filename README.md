@@ -4,20 +4,19 @@
   <img width="80" height="80" src =./resources/icon2.png>
 </p>
 
+## Companion Settings
+**Medications and Dosage Information** is input via the **Companion Settings** side app that is loaded via the Fitbit Mobile Application:
+- **Add Item:** Click **Add Medication and Dosage** and input Medication Name and Dosage.
+- **Save Item:** Click **Save** button to add the tile to the Pill-Pillow Fitbit App on your device.
+- **Delete Item:** Click **Edit** button and select the **X** beside Item for removal. Click **Done** to remove it from device.
+- **Delete All:** Click **Clear Settings Storage** to remove all Items in Companion Settings.
+
 ## Devices
 **Pill-Pillow** is built for Fitbit Devices: Ionic (348x250), Versa (300x300), Versa Lite (300x300), and Versa 2 (300x300).
 
 <p align="left">
   <img width="311" height=310" src=./screenshots/pill-pillow-versa-1.png>
 </p>
-
-## Companion Settings
-
-**Medications and Dosage Information** is input via the **Companion Settings** side app that is loaded via the Fitbit Mobile Application:
-- **Add Item:** Click **Add Medication and Dosage** and input Medication Name and Dosage.
-- **Save Item:** Click **Save** button to add the tile to the Pill-Pillow Fitbit App on your device.
-- **Delete Item:** Click **Edit** button and select the **X** beside Item for removal. Click **Done** to remove it from device.
-- **Delete All:** Click **Clear Settings Storage** to remove all Items in Companion Settings.
 
 ## Screenshots 
 ### Companion Settings

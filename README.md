@@ -21,9 +21,7 @@
 
 ## Screenshots
 <p align="left">
-  <img width="390" height=520" src=./screenshots/pill-pillow-companion-2.png>
-  <img width="361" height=368" src=./screenshots/pill-pillow-companion-3.png>
-  <img width="387" height=316" src=./screenshots/pill-pillow-companion-4.png>                   
+  <img width="390" height=520" src=./screenshots/pill-pillow-companion-2.png>            
 </p>
 
 ## License

@@ -19,7 +19,7 @@
 - **Delete Item:** Click **Edit** button and select the **X** beside Item for removal. Click **Done** to remove it from device.
 - **Delete All:** Click **Clear Settings Storage** to remove all Items in Companion Settings.
 
-## Screenshots
+## Screenshots 
 <p align="left">
   <img width="390" height=520" src=./screenshots/pill-pillow-companion-2.png>            
 </p>

@@ -20,6 +20,7 @@
 - **Delete All:** Click **Clear Settings Storage** to remove all Items in Companion Settings.
 
 ## Screenshots 
+### Companion Settings
 <p align="left">
   <img width="326" height="459" src=./screenshots/pill-pillow-companion-5.png>            
 </p>

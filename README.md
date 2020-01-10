@@ -17,6 +17,7 @@
 
 ## Screenshots 
 ### Companion Settings
+**Pill-Pillow** Companion Settings screenshot displaying the completion of added Medications and Dosage Information:
 <p align="left">
   <img width="326" height="459" src=./screenshots/pill-pillow-companion-1.JPG>            
 </p>

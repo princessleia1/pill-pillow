@@ -6,7 +6,7 @@
 - **Add Item:** Click **Add Medication and Dosage** and input Medication Name and Dosage.
 - **Save Item:** Click **Save** to add the tile to the Pill-Pillow Fitbit App on your device.
 - **Delete Item:** Click **Edit** and select the **X** beside Item for removal. Click **Done** to delete it from device.
-- **Delete All:** Click **Clear Settings Storage** to remove all Items in Companion Settings.
+- **Delete All:** Click **Clear Settings Storage** to remove all Items in Companion Settings and on your device.
 
 ## Devices
 **Pill-Pillow** is built for Fitbit Devices: Ionic (348x250), Versa (300x300), Versa Lite (300x300), and Versa 2 (300x300).

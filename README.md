@@ -18,7 +18,7 @@
 ## Screenshots 
 ### Companion Settings
 <p align="left">
-  <img width="326" height="459" src=./screenshots/pill-pillow-companion-0.JPG>            
+  <img width="326" height="459" src=./screenshots/pill-pillow-companion-1.JPG>            
 </p>
 
 ## License

@@ -43,5 +43,5 @@
     <rect id="batteryIconOverlay" />
     <rect id="batteryRedLine" />
     <text id="battery">X%</text>
-  <text id="appTitle">PILL-POPPER</text>
+  <text id="appTitle">PILL-PILLOW</text>
 </svg>

@@ -21,6 +21,30 @@
   <img width="326" height="459" src=./screenshots/pill-pillow-companion-1.JPG>            
 </p>
 
+## Build
+**Pre-requisites:**
+* Install [Node.js](https://nodejs.org/en/download/) 8.x+ on macOS, Windows or Linux.
+* ```git clone https://github.com/princessleia1/sleepy-time.git ```
+* Edit package.json file and add the Fitbit CLI dependencies:
+```
+"devDependencies": {
+   "@fitbit/sdk": "^4.1.0",
+   "@fitbit/sdk-cli": "^1.7.0"
+}
+```
+* Developer Bridge on Mobile Device and Fitbit Device connected.
+
+## Install
+Using Fitbit SDK CLI Tool via ```Console```:
+
+```
+npm add @fitbit/sdk
+npm add @fitbit/sdk-cli
+npx fitbit-build generate-appid
+npx fitbit-build
+npx fitbit
+fitbit$ install
+```
 ## License
 **Pill-Pillow** App is licensed under the terms of the [GPL-3.0 License](/LICENSE). 
 

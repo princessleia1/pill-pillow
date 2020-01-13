@@ -24,7 +24,7 @@
 ## Build
 **Pre-requisites:**
 * Install [Node.js](https://nodejs.org/en/download/) 8.x+ on macOS, Windows or Linux.
-* ```git clone https://github.com/princessleia1/sleepy-time.git ```
+* ```git clone https://github.com/princessleia1/pill-pillow.git ```
 * Edit package.json file and add the Fitbit CLI dependencies:
 ```
 "devDependencies": {

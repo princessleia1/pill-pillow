@@ -14,6 +14,7 @@ let batteryPercent = document.getElementById("battery");
 let batteryOverlay = document.getElementById("batteryIconOverlay");
 let batteryRedLine = document.getElementById("batteryRedLine");
 
+// Support for Ionic device
 const IONIC = "IONIC";
 
 if (device.modelName.toUpperCase() === IONIC) {
@@ -54,7 +55,7 @@ function updateHeader() {
 
 updateHeader();
 
-// Colors
+// Colour scheme
 let extraDarkGrey = "#303030";
 let white = "white";
 let black = "black";

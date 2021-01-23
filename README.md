@@ -11,16 +11,6 @@
 ## Devices
 **Pill-Pillow** is built for Fitbit Devices: Ionic (348x250), Versa (300x300), Versa Lite (300x300), and Versa 2 (300x300).
 
-<p align="left">
-  <img width="311" height=310" src=./screenshots/pill-pillow-versa-1.png>
-</p>
-
-## Screenshots 
-**Pill-Pillow** Companion Settings screenshot displaying the completion of added Medications and Dosage Information:
-<p align="left">
-  <img width="326" height="459" src=./screenshots/pill-pillow-companion-1.JPG>            
-</p>
-
 ## Build
 **Pre-requisites:**
 * Install [Node.js](https://nodejs.org/en/download/) 8.x+ on macOS, Windows or Linux.
